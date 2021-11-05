@@ -26,6 +26,6 @@ Skills
 Github stats
 ======================
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liveisgood8&show_icons=true&locale=en&layout=compact" alt="liveisgood8" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liveisgood8&show_icons=true&locale=en" alt="liveisgood8" /></span>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liveisgood8&show_icons=true&locale=en" alt="liveisgood8" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liveisgood8&show_icons=true&locale=en&layout=compact" alt="liveisgood8" /></span>
