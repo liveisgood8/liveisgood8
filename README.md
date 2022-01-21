@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <div align="center">
   
-  [![Telegram badge](https://img.shields.io/badge/-Telegram-informational?logo=telegram&style=flat)](https://t.me/liveisgood8)
-  [![Web site badge](https://img.shields.io/badge/-Portfolio-green?style=flat)](https://t.me/liveisgood8)
+  [![CV badge](https://img.shields.io/badge/-CV-green?style=flat)](https://ilekir.online/)
   [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/liveisgood8)
+  [![Telegram badge](https://img.shields.io/badge/-Telegram-informational?logo=telegram&style=flat)](https://t.me/liveisgood8)
   
 </div>
 
