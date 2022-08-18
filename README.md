@@ -17,8 +17,8 @@ Skills
 - Good knowledge of Java, Kotlin, JavaScript, TypeScript.
 - Backend development: Spring framework, Node.js (Express).
 - Frontend development: React, Redux.
-- Databases: Oracle, PostgreSQL, including writing and optimizing SQL-queries, design and normalize data structure. NoSQL databases.
-- Messaging brokers: RabbitMQ.
+- Databases: Oracle, PostgreSQL, including writing and optimizing SQL-queries, design and normalize data structure. NoSQL databases like MongoDB.
+- Messaging brokers: RabbitMQ, Kafka.
 - Microservices principals and patterns.
 - Docker and Kubernetes, CI/CD principals, Gitlab CI, Jenkins.
 - Agile methodologies, TDD.
