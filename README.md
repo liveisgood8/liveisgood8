@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <div align="center">
   
-  [![CV badge](https://img.shields.io/badge/-CV-green?style=flat)](https://ilekir.online/)
+  <!-- [![CV badge](https://img.shields.io/badge/-CV-green?style=flat)](https://ilekir.online/) -->
   [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/liveisgood8)
   [![Telegram badge](https://img.shields.io/badge/-Telegram-informational?logo=telegram&style=flat)](https://t.me/liveisgood8)
   
