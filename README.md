@@ -7,7 +7,7 @@
   
 </div>
 
-My name is Kirill and I am full-stack Java/React developer from Russia, living in Moscow and working at [Leroy Merlin](https://tech.leroymerlin.ru/).
+My name is Kirill and I am full-stack Java/React developer from Russia, living in Moscow and working at [Yandex](https://ya.ru/).
 
 
 
